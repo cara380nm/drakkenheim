@@ -235,8 +235,8 @@ TODO
 
 ## Notes
 
- - [^mageborn]: Mageborn background from Drakkenheim book
- - [^rogue]: Rogue class
- - [^arcane-trickster]: Arcane Trickster subclass [^rogue]
- - [^fairy]: Fairy playable race (not allowed flight, at least initially) :-(
+[^mageborn]: Mageborn background from Drakkenheim book
+[^rogue]: Rogue class
+[^arcane-trickster]: Arcane Trickster subclass [^rogue]
+[^fairy]: Fairy playable race (not allowed flight, at least initially) :-(
 
