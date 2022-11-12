@@ -4,11 +4,10 @@
 |--------|----------------------|-------|------|-------|--------------|----|
 | Lemira | Mageborn [^mageborn] | Fairy | Fey  | Small | Chaotic Good |    |
 
-| Class | Level |  HD |
-|-------|-------|----:|
-| Rogue | 3     | 1d8 |
-|       |       |     |
-|       |       |     |
+| Class  | Subclass         | Level | HD  |
+|--------|------------------|------:|-----|
+| Rogue  | Arcane Trickster |     3 | 1d8 |
+| Wizard | -                |     1 | 1d6 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       |
@@ -78,7 +77,7 @@ TODO
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 20        |         | 5                   |
+| 25        |         | 5                   |
 
 ## Attacks
 | Attack | Attack Bonus | Damage type | Note |
@@ -105,6 +104,9 @@ Use bonus action to gain advantage on next attack roll on same turn. Only if hav
 
 ### Mage Hand Legerdemain
 Invisible, can stow/retrieve from container on a creature/pick locks/disarm traps, and control w/ bonus action [^arcane-trickster]
+
+### Arcane Recovery
+Once per day after short rest can expend slots with combined level of 1/2 wizard level rounded up (max level 6) [^wizard]
 
 ## Money
 
@@ -207,23 +209,48 @@ TODO
 | Spell save DC        | 8+prof+int mod |
 | Spell attack bonus   | prof+int mod   |
 
+### Wizard [^wizard]
+
+| Feature              | Value          |
+|----------------------|----------------|
+| Spellcasting ability | Int            |
+| Spell save DC        | 8+prof+int mod |
+| Spell attack bonus   | prof+int mod   |
+
+### Prepared spells
+Int + wiz level spells:
+
+  - 
+  - 
+  - 
+  - 
+
 ### Cantrips
   - Druidcraft [^fairy]
   - Mage hand (Legerdemain) [^arcane-trickster]
-  - Mirror Illusion [^arcane-trickster]
+  - Minor Illusion [^arcane-trickster]
   - Prestidigitation [^arcane-trickster]
+  - Booming Blade (1d8 thunder if moves 5ft during round) [^wizard]
+  - Green Flame Blade (int fire damage to enemy within 5ft) [^wizard]
+  - Message [^wizard]
 
 ### Level 1
 
 #### Slots
-  - :o: :o: Regular spells
+  - :o: :o: :o: Regular spells
   - :o: 1/day faerie fire [^fairy]
 
 #### Known
   - Find familiar [^arcane-trickster]
-  - Mirror image [^arcane-trickster]
+  - Minor image [^arcane-trickster]
   - Silvery barbs (reaction - forces reroll & confer adv) [^arcane-trickster]
-  - Faerie Fire (can cast with wizard slots) [^fairy]
+  - Faerie Fire (can cast with regular slots) [^fairy]
+  - Absorb Elements (reaction - resistant 1 turn, and deal 1d6 next melee) - Spellbook [^wizard]
+  - Shield (reaction +5 AC) - Spellbook [^wizard]
+  - Identify - Spellbook [^wizard]
+  - Alarm - Spellbook [^wizard]
+  - Snare - Spellbook [^wizard]
+  - Charm Person - Spellbook [^wizard]
 
 ### Level 2
 
@@ -231,12 +258,13 @@ TODO
   - 1/day enlarge/reduce [^fairy] TODO NOT USABLE UNTIL LEVEL 5
 
 #### Known
-  - Enlarge/Reduce (can cast with wizard slots) [^fairy]
+  - Enlarge/Reduce (can cast with regular slots) [^fairy]
 
 ## Notes
 
 [^mageborn]: Mageborn background from Drakkenheim book
 [^rogue]: Rogue class
+[^wizard]: Wizard class (multiclassed instead of 4th level)
 [^arcane-trickster]: Arcane Trickster subclass [^rogue]
 [^fairy]: Fairy playable race (not allowed flight, at least initially) :-(
 
