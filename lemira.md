@@ -77,7 +77,7 @@ TODO
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 25        |         | 5                   |
+| 25        |   6     |    5                |
 
 ## Attacks
 | Attack | Attack Bonus | Damage type | Note |
@@ -113,7 +113,7 @@ Once per day after short rest can expend slots with combined level of 1/2 wizard
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |        890 |
+| GP |       1 |        885 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -154,10 +154,19 @@ Once per day after short rest can expend slots with combined level of 1/2 wizard
  - Scrolls:
    - Silvery barbs
    - Minor image
-   - Purge contamination
  - A mold of the house key in wax
  - Delerium handling equipment
 
+Springbok
+1st false life
+Mage arm
+Mag miss
+2nd
+Acid arrow
+Web
+3rd
+Remove contamination
+TODO:
 
 ## Misc
 
