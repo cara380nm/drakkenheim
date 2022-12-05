@@ -262,6 +262,7 @@ Int + wiz level spells:
   - Magic missile - Spellbook [^wizard]
   - Comprehend languages - Spellbook [^wizard]
   - Tenders floating disk - Spellbook [^wizard]
+  - Detect magic - Spellbook from scroll
 
 ### Level 2
 
@@ -273,6 +274,7 @@ Int + wiz level spells:
   - Enlarge/Reduce (can cast with regular slots) [^fairy]
   - Acid arrow
   - Web
+  - Hold person from scroll
 
 ### Level 3
 
