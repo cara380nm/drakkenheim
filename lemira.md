@@ -7,7 +7,7 @@
 | Class  | Subclass         | Level | HD  |
 |--------|------------------|------:|-----|
 | Rogue  | Arcane Trickster |     3 | 1d8 |
-| Wizard | -                |     2 | 1d6 |
+| Wizard | Bladesinger      |     2 | 1d6 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       |
@@ -20,8 +20,6 @@
 | Con   | 10       | +0         |            |
 
 ## Skills
-
-TODO
 
 | Skill           | Stat | Notes                       |
 |-----------------|------|:----------------------------|
@@ -78,7 +76,7 @@ TODO
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 28        |   6     |    5                |
+| 28        |   0     |    8                |
 
 ## Attacks
 | Attack | Attack Bonus | Damage type | Note |
@@ -121,7 +119,7 @@ Bonus action to start (proficiency times per day, lasts 1 minute):
 |    | 1 GP is | Coins held |
 |----|--------:|-----------:|
 | PP |    1/10 |            |
-| GP |       1 |        885 |
+| GP |       1 |        885+72 |
 | EP |       2 |            |
 | SP |      10 |            |
 | CP |     100 |            |
@@ -164,17 +162,7 @@ Bonus action to start (proficiency times per day, lasts 1 minute):
    - Minor image
  - A mold of the house key in wax
  - Delerium handling equipment
-
-Springbok
-1st false life
-Mage arm
-Mag miss
-2nd
-Acid arrow
-Web
-3rd
-Remove contamination
-TODO:
+ - Healing potion
 
 ## Misc
 
@@ -269,6 +257,11 @@ Int + wiz level spells:
   - Alarm - Spellbook [^wizard]
   - Snare - Spellbook [^wizard]
   - Charm Person - Spellbook [^wizard]
+  - Mage armour - Spellbook [^wizard]
+  - False Life - Spellbook [^wizard]
+  - Magic missile - Spellbook [^wizard]
+  - TODO - Spellbook [^wizard]
+  - TODO - Spellbook [^wizard]
 
 ### Level 2
 
@@ -278,6 +271,16 @@ Int + wiz level spells:
 
 #### Known
   - Enlarge/Reduce (can cast with regular slots) [^fairy]
+  - Acid arrow
+  - Web
+
+### Level 3
+
+#### Slots
+  - No slots yet
+
+#### Known
+  - Remove contamination
 
 ## Notes
 
