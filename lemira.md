@@ -7,7 +7,7 @@
 | Class  | Subclass         | Level | HD  |
 |--------|------------------|------:|-----|
 | Rogue  | Arcane Trickster |     3 | 1d8 |
-| Wizard | -                |     1 | 1d6 |
+| Wizard | -                |     2 | 1d6 |
 
 ## Stats
 | Stat  | Value    | Mod        | Save       |
@@ -37,7 +37,7 @@ TODO
 | Medicine        | Wis  |                             |
 | Nature          | Int  |                             |
 | Perception      | Wis  |                             |
-| Performance     | Cha  |                             |
+| Performance     | Cha  | Proficient [^bladesinger].  |                          |
 | Persuasion      | Cha  | Proficient [^rogue]         |
 | Religion        | Int  |                             |
 | Slight of Hand  | Dex  | Proficient [^rogue]         |
@@ -61,6 +61,7 @@ TODO
  - Longswords [^rogue]
  - Rapiers [^rogue]
  - Shortswords [^rogue]
+ - Whip [^bladesinger]
 
 ### Tools
  - Thieves' Tools [^rogue] (expertise - 2xprof)
@@ -68,7 +69,7 @@ TODO
 
 | Field              |                                      Value |
 |--------------------|-------------------------------------------:|
-| Proficiency bonus  |                                         +2 |
+| Proficiency bonus  |                                         +3 |
 | AC                 |                                         15 |
 | Initiative         |                                        Dex |
 | Walking Speed      |                              30ft [^fairy] |
@@ -77,7 +78,7 @@ TODO
 
 | Hitpoints | Lost HP | Temporary Hitpoints |
 |-----------|---------|---------------------|
-| 25        |   6     |    5                |
+| 28        |   6     |    5                |
 
 ## Attacks
 | Attack | Attack Bonus | Damage type | Note |
@@ -107,6 +108,13 @@ Invisible, can stow/retrieve from container on a creature/pick locks/disarm trap
 
 ### Arcane Recovery
 Once per day after short rest can expend slots with combined level of 1/2 wizard level rounded up (max level 6) [^wizard]
+
+### Bladesong
+Bonus action to start (proficiency times per day, lasts 1 minute):
+ * AC bonus equal to int mod
+ * Walk +10ft
+ * Advantage to dex acrobatic checks
+ * Con spell concentration bonus (int mod)
 
 ## Money
 
@@ -233,6 +241,7 @@ Int + wiz level spells:
   - 
   - 
   - 
+  - 
 
 ### Cantrips
   - Druidcraft [^fairy]
@@ -246,7 +255,7 @@ Int + wiz level spells:
 ### Level 1
 
 #### Slots
-  - :o: :o: :o: Regular spells
+  - :o: :o: :o: :o: Regular spells
   - :o: 1/day faerie fire [^fairy]
 
 #### Known
@@ -264,7 +273,8 @@ Int + wiz level spells:
 ### Level 2
 
 #### Slots
-  - 1/day enlarge/reduce [^fairy] TODO NOT USABLE UNTIL LEVEL 5
+  - :o: :o: Regular spells
+  - :o: 1/day enlarge/reduce [^fairy]
 
 #### Known
   - Enlarge/Reduce (can cast with regular slots) [^fairy]
@@ -274,6 +284,7 @@ Int + wiz level spells:
 [^mageborn]: Mageborn background from Drakkenheim book
 [^rogue]: Rogue class
 [^wizard]: Wizard class (multiclassed instead of 4th level)
-[^arcane-trickster]: Arcane Trickster subclass [^rogue]
+[^arcane-trickster]: Arcane Trickster subclass
+[^bladesinger]: Bladesinger subclass
 [^fairy]: Fairy playable race (not allowed flight, at least initially) :-(
 
