@@ -225,11 +225,11 @@ TODO
 ### Prepared spells
 Int + wiz level spells:
 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Silvery barbs
+  - Shield
+  - Absorb elements
+  - Magic missile
+  - Charm person
 
 ### Cantrips
   - Druidcraft [^fairy]
@@ -260,8 +260,8 @@ Int + wiz level spells:
   - Mage armour - Spellbook [^wizard]
   - False Life - Spellbook [^wizard]
   - Magic missile - Spellbook [^wizard]
-  - TODO - Spellbook [^wizard]
-  - TODO - Spellbook [^wizard]
+  - Comprehend languages - Spellbook [^wizard]
+  - Tenders floating disk - Spellbook [^wizard]
 
 ### Level 2
 
