@@ -150,7 +150,7 @@ Bonus action to start (proficiency times per day, lasts 1 minute):
    - tinderbox
    - waterskin
    - hempen rope
- - 5 x Caltrops
+ - 4 x Caltrops
  - 4 x Ale
  - Weapons:
    - Rapier 1d8 Finesse [^rogue]
@@ -160,6 +160,7 @@ Bonus action to start (proficiency times per day, lasts 1 minute):
  - Scrolls:
    - Silvery barbs
    - Minor image
+   - Mage armour
  - A mold of the house key in wax
  - Delerium handling equipment
  - Healing potion
